@@ -11,5 +11,9 @@
   "devDependencies": {
     "typescript": "^4.6.4",
     "vite": "^3.1.0"
+  },
+  "dependencies": {
+    "babylonjs": "^5.23.0",
+    "keycode.js": "^2.0.0-alpha.3"
   }
 }
